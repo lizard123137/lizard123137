@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-<h2 style="text-align: center"> ✏️SKILLS </h2>
+## ✏️SKILLS
 - ✔️ Python - I have extensive experience in coding Python. It's easily my favorite for side projects.
 - ✔️ JavaScript - I have experience in using JavaScript for web development.
 - ✔️ HTML5 - I have great experience in building websites using HTML5.
