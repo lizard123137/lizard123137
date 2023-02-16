@@ -2,8 +2,6 @@
 
 **`Software developer`**
 
-[![lizard123137's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard123137&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ✏️SKILLS
 - ✔️ Python - I have extensive experience in coding Python. It's easily my favorite for side projects.
 - ✔️ JavaScript - I have experience in using JavaScript for web development.
@@ -19,6 +17,9 @@ I started my journey with coding back in middle school when I decided to learn h
 
 ## ✏️MY HOBBIES
 The time I am not allocating towards practicing programming I usually spend tinkering with my car or playing guitar. I drive a 98' honda accord and hopefully this summer I'll finally make the swap to a more powerful engine. As with everything it will take a lot of time and effort, but improvements are what I am all about :)
+
+## ✏️ STATS
+[![lizard123137's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard123137&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✏️FIND ME ONLINE
 - ⚡️ My LinkedIn: https://www.linkedin.com/in/michal-gagos/
