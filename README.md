@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-[![lizard123137's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard123137)](https://github.com/anuraghazra/github-readme-stats)
+[![lizard123137's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizard123137&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✏️SKILLS
 - ✔️ Python - I have extensive experience in coding Python. It's easily my favorite for side projects.
