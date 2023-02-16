@@ -19,5 +19,6 @@ I started my journey with coding back in middle school when I decided to learn h
 The time I am not allocating towards practicing programming I usually spend tinkering with my car or playing guitar. I drive a 98' honda accord and hopefully this summer I'll finally make the swap to a more powerful engine. As with everything it will take a lot of time and effort, but improvements are what I am all about :)
 
 ## ✏️FIND ME ONLINE
-- ⚡️ My Codepen.io: https://codepen.io/micha-kelly
-- ⚡️ My LeetCode: https://leetcode.com/lizard123137/Strongly
+- ⚡️ My LinkedIn: https://www.linkedin.com/in/michal-gagos/
+- ⚡️ My Codepen.io: https://codepen.io/micha-kelly/
+- ⚡️ My LeetCode: https://leetcode.com/lizard123137/
